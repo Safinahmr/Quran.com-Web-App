@@ -1,22 +1,33 @@
 # Quran.com - Manual Testing Project
 
 ### 🔎 Project Overview
-This repository highlights my Manual Testing Project for the Quran.com website application, a platform used to read, search, listen to, and reflect on the Quran.
+This repository highlights my Manual Testing Project on Quran.com website application, a platform used to read, search, listen to, and reflect on the Quran.
 
 ### 🎯 Objectives
-📌 
-📌
-📌
+📌 Verify the functionality, usability, and responsiveness of the website. <br>
+📌 Identify and document bugs, UI inconsistencies, and performance issues. <br>
+📌 Conduct various testing types to enhance website stability and reliability. <br>
 
 ### 🛠 Tools & Technologies Used
-📌 
-📌
-📌  
+📌 Test Management: Google Sheets<br>
+📌 Browser: Chrome, Mozilla, Safari<br>
+📌 OS: Mac OS 15.1<br>
 
 ### ⚙️ Testing Types Applied
-📌 
-📌
-📌
+1. Functional Testing<br>
+📌 Ensured correct behaviour of Sign Up, Sign In, and other key workflows<br>
+📌 Verified that the website features function as expected<br><br>
+
+2. Usability Testing<br>
+📌 Identified UI/UX issues that might affect user engagement<br>
+📌 Ensured the website is easy to use by focusing on the following aspects:<br>
+      ▪️ Easy content exploration<br>
+      ▪️ Findability<br>
+      ▪️ Automation<br>
+
+3. UI Testing<br>
+📌 Verified visual elements such as fonts, colour, alignments and responsiveness<br>
+📌 Ensured the UI components remained consistent across pages<br><br>
 
 ### 🔄 Software Testing Life Cycle (STLC) Implementation
 📌 
