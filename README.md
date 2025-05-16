@@ -15,24 +15,27 @@ This repository highlights my Manual Testing Project on Quran.com website applic
 
 ### ⚙️ Testing Types Applied
 1. Functional Testing<br>
-📌 Ensured correct behaviour of Sign Up, Sign In, and other key workflows<br>
-📌 Verified that the website features function as expected<br><br>
+📌 Ensured correct behaviour of Sign Up, Sign In, and other key workflows.<br>
+📌 Verified that the website features function as expected.<br><br>
 
 2. Usability Testing<br>
-📌 Identified UI/UX issues that might affect user engagement<br>
+📌 Identified UI/UX issues that might affect user engagement.<br>
 📌 Ensured the website is easy to use by focusing on the following aspects:<br>
       ▪️ Easy content exploration<br>
       ▪️ Findability<br>
       ▪️ Automation<br>
 
 3. UI Testing<br>
-📌 Verified visual elements such as fonts, colour, alignments and responsiveness<br>
-📌 Ensured the UI components remained consistent across pages<br><br>
+📌 Verified visual elements such as fonts, colour, alignments and responsiveness.<br>
+📌 Ensured the UI components remained consistent across pages.<br><br>
 
 ### 🔄 Software Testing Life Cycle (STLC) Implementation
-📌 
-📌
-📌
+📌 Requirement Analysis: Understood the app features and functionalities. <br>
+📌 Test Planning: Developed a structured test approach to ensure all aspects of testing were covered. <br>
+📌 Test Case Development: Created detailed test cases and test data using Google Sheets.<br>
+📌 Test Execution: Conducted hands-on testing on Mac OS 15.1 device.<br>
+📌 Defect Reporting: Documented and prioritized bugs in Google Sheets by severity.<br>
+📌 Test Closure: Identified areas for improving app performance and suggested solutions.<br>
 
 ### 📄 Deliverables
 📌 
