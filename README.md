@@ -16,7 +16,7 @@ This repository highlights my Manual Testing Project on Quran.com website applic
 ### ⚙️ Testing Types Applied
 1. Functional Testing<br>
 📌 Ensured correct behaviour of Sign Up, Sign In, and other key workflows.<br>
-📌 Verified that the website features function as expected.<br><br>
+📌 Verified that the website features function as expected.<br>
 
 2. Usability Testing<br>
 📌 Identified UI/UX issues that might affect user engagement.<br>
