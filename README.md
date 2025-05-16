@@ -27,7 +27,7 @@ This repository highlights my Manual Testing Project on Quran.com website applic
 
 3. UI Testing<br>
 📌 Verified visual elements such as fonts, colour, alignments and responsiveness.<br>
-📌 Ensured the UI components remained consistent across pages.<br><br>
+📌 Ensured the UI components remained consistent across pages.<br>
 
 ### 🔄 Software Testing Life Cycle (STLC) Implementation
 📌 Requirement Analysis: Understood the app features and functionalities. <br>
