@@ -38,11 +38,7 @@ This repository highlights my Manual Testing Project on Quran.com website applic
 📌 Test Closure: Identified areas for improving app performance and suggested solutions.<br>
 
 ### 📄 Deliverables
-📌 
-📌
-📌
+📌 [Test Cases](https://docs.google.com/spreadsheets/d/1iaU2uLm2_G0Qemx9A2SnLM4kRmGe1fE_RUHshii-VSQ/edit?usp=sharing)<br>
 
 ### 💬 Conclusion
-📌 
-📌
-📌
+This testing process highlights the importance of thorough manual testing even on well-established platforms. Identifying both functional and UI bugs emphasize that continuous quality assurance is essential to maintaining a seamless and error-free user journey
