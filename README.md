@@ -1,4 +1,4 @@
-# Quran.com - Manual Testing Project
+# Quran.com
 
 ### 🔎 Project Overview
 This repository highlights my Manual Testing Project on [Quran.com](https://quran.com/) website application, a platform used to read, search, listen to, and reflect on the Quran.
