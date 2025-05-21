@@ -10,7 +10,7 @@ This repository highlights my Manual Testing Project on Quran.com website applic
 
 ### 🛠 Tools & Technologies Used
 📌 Test Management: Google Sheets<br>
-📌 Browser: Chrome, Mozilla, Safari<br>
+📌 Browser: Chrome<br>
 📌 OS: Mac OS 15.1<br>
 
 ### ⚙️ Testing Types Applied
