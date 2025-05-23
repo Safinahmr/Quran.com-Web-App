@@ -29,6 +29,9 @@ This repository highlights my Manual Testing Project on [Quran.com](https://qura
 📌 Verified visual elements such as fonts, colour, alignments and responsiveness.<br>
 📌 Ensured the UI components remained consistent across pages.<br>
 
+4. Exploratory Testing<br>
+📌 Searching and navigating between Surahs and Ayahs<br>
+
 ### 🔄 Software Testing Life Cycle (STLC) Implementation
 📌 Requirement Analysis: Understood the app features and functionalities. <br>
 📌 Test Planning: Developed a structured test approach to ensure all aspects of testing were covered. <br>
